@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+models/*/classification/*.pth
+models/*/segmentation/*.pth
+
+outputs/
+*.pth
